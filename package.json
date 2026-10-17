@@ -1,0 +1,15 @@
+{
+  "name": "my-preset",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "ap build",
+    "check": "ap check",
+    "dev": "ap dev",
+    "preview": "ap preview"
+  },
+  "devDependencies": {
+    "advanced-preset": "https://github.com/mirrorange/advanced-preset/releases/download/v1.0.0/advanced-preset-1.0.0.tgz"
+  }
+}
