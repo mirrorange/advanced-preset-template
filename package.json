@@ -10,6 +10,6 @@
     "preview": "ap preview"
   },
   "devDependencies": {
-    "advanced-preset": "https://github.com/mirrorange/advanced-preset/releases/download/v1.3.1/advanced-preset-1.3.1.tgz"
+    "advanced-preset": "https://github.com/mirrorange/advanced-preset/releases/download/v1.4.0/advanced-preset-1.4.0.tgz"
   }
 }
