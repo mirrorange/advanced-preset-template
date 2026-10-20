@@ -2,6 +2,7 @@
   "name": "my-preset",
   "version": "0.1.0",
   "private": true,
+  "license": "CC0-1.0",
   "type": "module",
   "scripts": {
     "build": "ap build",
@@ -11,6 +12,6 @@
     "skills": "ap skills install"
   },
   "devDependencies": {
-    "advanced-preset": "https://github.com/mirrorange/advanced-preset/releases/download/v1.5.0/advanced-preset-1.5.0.tgz"
+    "advanced-preset": "^1.6.0"
   }
 }
